@@ -1,0 +1,27 @@
+/* 
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 70px;
+    
+}
+#btn{
+    
+    text-align: center;
+    justify-content: center;
+}
+#decrese{
+    font-size: 20px;
+    padding: auto;
+    margin-right: 5px;
+}
+#reset{
+    font-size: 20px;
+}
+#increse{
+    font-size: 20px;
+}*/
+#label{
+    text-align: center;
+    font-size: 30px;
+}
